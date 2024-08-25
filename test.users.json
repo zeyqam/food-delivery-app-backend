@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "66a7eef8589a1bb015e3e972"
+  },
+  "auth0Id": "454564647484",
+  "email": "test@test.com",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a80cd3c25821e74d11cc04"
+  },
+  "auth0Id": "google-oauth2|104909542140925479075",
+  "email": "ashirovzeyqam@gmail.com",
+  "__v": 0,
+  "addressLine1": "Test Upated",
+  "city": "Test Updated",
+  "country": "Test Updated",
+  "name": "Update Name"
+}]

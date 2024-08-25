@@ -1,6 +1,7 @@
 import express from "express";
 import { jwtCheck, jwtParse } from "../middleware/auth";
 import OrderController from "../controllers/OrderController";
+import bodyParser from "body-parser";
 
 const router = express.Router();
 
@@ -13,6 +14,10 @@ router.post(
   OrderController.createCheckoutSession
 );
 
-router.post("/checkout/webhook", OrderController.stripeWebhookHandler);
+router.post(
+  "/checkout/webhook",
+  bodyParser.raw({ type: "application/json" }),
+  OrderController.stripeWebhookHandler
+);
 
 export default router;

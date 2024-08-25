@@ -1,0 +1,294 @@
+[{
+  "_id": {
+    "$oid": "66c25a591d842f4fe2e9c79d"
+  },
+  "restaurant": {
+    "$oid": "66b3575d584882b3a128c52d"
+  },
+  "user": {
+    "$oid": "66a80cd3c25821e74d11cc04"
+  },
+  "deliveryDetails": {
+    "email": "ashirovzeyqam@gmail.com",
+    "name": "Update Name",
+    "addressLine1": "Test Upated",
+    "city": "Test Updated"
+  },
+  "cartItems": [
+    {
+      "menuItemId": "66b471f55c201fbd93f7e6ff",
+      "quantity": 3,
+      "name": "test",
+      "_id": {
+        "$oid": "66c25a591d842f4fe2e9c79e"
+      }
+    },
+    {
+      "menuItemId": "66b471f55c201fbd93f7e700",
+      "quantity": 4,
+      "name": "test",
+      "_id": {
+        "$oid": "66c25a591d842f4fe2e9c79f"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-08-18T20:32:25.174Z"
+  },
+  "__v": 0,
+  "totalAmount": 6100,
+  "status": "delivered"
+},
+{
+  "_id": {
+    "$oid": "66c25c6ac723b0d97ffe1b02"
+  },
+  "restaurant": {
+    "$oid": "66b3575d584882b3a128c52d"
+  },
+  "user": {
+    "$oid": "66a80cd3c25821e74d11cc04"
+  },
+  "deliveryDetails": {
+    "email": "ashirovzeyqam@gmail.com",
+    "name": "Update Name",
+    "addressLine1": "Test Upated",
+    "city": "Test Updated"
+  },
+  "cartItems": [
+    {
+      "menuItemId": "66b471f55c201fbd93f7e6ff",
+      "quantity": 2,
+      "name": "test",
+      "_id": {
+        "$oid": "66c25c6ac723b0d97ffe1b03"
+      }
+    },
+    {
+      "menuItemId": "66b471f55c201fbd93f7e700",
+      "quantity": 1,
+      "name": "test",
+      "_id": {
+        "$oid": "66c25c6ac723b0d97ffe1b04"
+      }
+    }
+  ],
+  "status": "paid",
+  "createdAt": {
+    "$date": "2024-08-18T20:41:14.759Z"
+  },
+  "__v": 0,
+  "totalAmount": 2600
+},
+{
+  "_id": {
+    "$oid": "66c2746ef93014ed0d3ee879"
+  },
+  "restaurant": {
+    "$oid": "66b3575d584882b3a128c52d"
+  },
+  "user": {
+    "$oid": "66a80cd3c25821e74d11cc04"
+  },
+  "deliveryDetails": {
+    "email": "ashirovzeyqam@gmail.com",
+    "name": "Update Name",
+    "addressLine1": "Test Upated",
+    "city": "Test Updated"
+  },
+  "cartItems": [
+    {
+      "menuItemId": "66b471f55c201fbd93f7e6ff",
+      "quantity": 1,
+      "name": "test",
+      "_id": {
+        "$oid": "66c2746ef93014ed0d3ee87a"
+      }
+    },
+    {
+      "menuItemId": "66b471f55c201fbd93f7e700",
+      "quantity": 1,
+      "name": "test",
+      "_id": {
+        "$oid": "66c2746ef93014ed0d3ee87b"
+      }
+    }
+  ],
+  "status": "paid",
+  "createdAt": {
+    "$date": "2024-08-18T22:23:42.717Z"
+  },
+  "__v": 0,
+  "totalAmount": 2400
+},
+{
+  "_id": {
+    "$oid": "66c27c28a89e320ffeb42d70"
+  },
+  "restaurant": {
+    "$oid": "66b3575d584882b3a128c52d"
+  },
+  "user": {
+    "$oid": "66a80cd3c25821e74d11cc04"
+  },
+  "deliveryDetails": {
+    "email": "ashirovzeyqam@gmail.com",
+    "name": "Update Name",
+    "addressLine1": "Test Upated",
+    "city": "Test Updated"
+  },
+  "cartItems": [
+    {
+      "menuItemId": "66b471f55c201fbd93f7e6ff",
+      "quantity": 1,
+      "name": "test",
+      "_id": {
+        "$oid": "66c27c28a89e320ffeb42d71"
+      }
+    },
+    {
+      "menuItemId": "66b471f55c201fbd93f7e700",
+      "quantity": 1,
+      "name": "test",
+      "_id": {
+        "$oid": "66c27c28a89e320ffeb42d72"
+      }
+    }
+  ],
+  "status": "paid",
+  "createdAt": {
+    "$date": "2024-08-18T22:56:40.352Z"
+  },
+  "__v": 0,
+  "totalAmount": 2400
+},
+{
+  "_id": {
+    "$oid": "66c2de24a8e5a3745fc259f9"
+  },
+  "restaurant": {
+    "$oid": "66b3575d584882b3a128c52d"
+  },
+  "user": {
+    "$oid": "66a80cd3c25821e74d11cc04"
+  },
+  "deliveryDetails": {
+    "email": "ashirovzeyqam@gmail.com",
+    "name": "Update Name",
+    "addressLine1": "Test Upated",
+    "city": "Test Updated"
+  },
+  "cartItems": [
+    {
+      "menuItemId": "66b471f55c201fbd93f7e700",
+      "quantity": 1,
+      "name": "test",
+      "_id": {
+        "$oid": "66c2de24a8e5a3745fc259fa"
+      }
+    },
+    {
+      "menuItemId": "66b471f55c201fbd93f7e701",
+      "quantity": 1,
+      "name": "dev",
+      "_id": {
+        "$oid": "66c2de24a8e5a3745fc259fb"
+      }
+    }
+  ],
+  "status": "paid",
+  "createdAt": {
+    "$date": "2024-08-19T05:54:44.408Z"
+  },
+  "__v": 0,
+  "totalAmount": 3700
+},
+{
+  "_id": {
+    "$oid": "66c30c7b787796ca7dde5407"
+  },
+  "restaurant": {
+    "$oid": "66b3575d584882b3a128c52d"
+  },
+  "user": {
+    "$oid": "66a80cd3c25821e74d11cc04"
+  },
+  "deliveryDetails": {
+    "email": "ashirovzeyqam@gmail.com",
+    "name": "Update Name",
+    "addressLine1": "Test Upated",
+    "city": "Test Updated"
+  },
+  "cartItems": [
+    {
+      "menuItemId": "66b471f55c201fbd93f7e700",
+      "quantity": 1,
+      "name": "test",
+      "_id": {
+        "$oid": "66c30c7b787796ca7dde5408"
+      }
+    },
+    {
+      "menuItemId": "66b471f55c201fbd93f7e701",
+      "quantity": 1,
+      "name": "dev",
+      "_id": {
+        "$oid": "66c30c7b787796ca7dde5409"
+      }
+    },
+    {
+      "menuItemId": "66b471f55c201fbd93f7e6ff",
+      "quantity": 1,
+      "name": "test",
+      "_id": {
+        "$oid": "66c30c7b787796ca7dde540a"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-08-19T09:12:27.894Z"
+  },
+  "__v": 0,
+  "totalAmount": 3900
+},
+{
+  "_id": {
+    "$oid": "66c6938b79abf1d9014779d9"
+  },
+  "restaurant": {
+    "$oid": "66b3575d584882b3a128c52d"
+  },
+  "user": {
+    "$oid": "66a80cd3c25821e74d11cc04"
+  },
+  "deliveryDetails": {
+    "email": "ashirovzeyqam@gmail.com",
+    "name": "Update Name",
+    "addressLine1": "Test Upated",
+    "city": "Test Updated"
+  },
+  "cartItems": [
+    {
+      "menuItemId": "66b471f55c201fbd93f7e6ff",
+      "quantity": 1,
+      "name": "test",
+      "_id": {
+        "$oid": "66c6938b79abf1d9014779da"
+      }
+    },
+    {
+      "menuItemId": "66b471f55c201fbd93f7e700",
+      "quantity": 1,
+      "name": "test",
+      "_id": {
+        "$oid": "66c6938b79abf1d9014779db"
+      }
+    }
+  ],
+  "status": "paid",
+  "createdAt": {
+    "$date": "2024-08-22T01:25:31.455Z"
+  },
+  "__v": 0,
+  "totalAmount": 2400
+}]
